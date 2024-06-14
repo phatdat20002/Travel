@@ -1,0 +1,17 @@
+<div class="container_content">
+
+# Trung tâm thương mại và khu mua sắm sầm uất giữa lòng thành phố
+<p>Ngày nay, khắp thành phố đều có các khu trung tâm thương mại đa chức năng từ tầm trung cho đến cao cấp sang trọng được bố trí đầy đủ tiện nghi hiện đại và hệ thống điều hòa mát mẻ. Quận 1 là nơi mà những khu trung tâm thương mại tập trung nhiều nhất. Chúng nằm ở vị trí thuận tiện, gần kề khách sạn hạng sang và địa điểm tham quan nổi tiếng.</p>
+<h3 class="heading">Diamond Plaza</h3>
+<p>
+Phải kể đến đầu tiên là <b>Diamond Plaza </b>tọa lạc tại góc đường Lê Duẩn và Phạm Ngọc Thạch. Toà cao ốc phủ kính phản quang xanh 22 tầng gồm cả căn hộ cao cấp và trung tâm mua sắm sang trọng được xây dựng vào năm 1999. Hoài niệm từ tòa nhà Jean Comte trước đây, mặt tiền Diamond Plaza xây theo kiểu kiến trúc Baroque cùng với những đường nét xưa cũ, sảnh vào hình mái vòm, hài hoà với cụm Nhà thờ Đức Bà và Bưu điện Thành phố. Tại đây, bạn có thể mua sắm đầy đủ mặt hàng sang trọng như trang sức vàng bạc và đá quý, nước hoa, mỹ phẩm, quần áo thời trang nam nữ và trẻ em, giày thể thao,… từ những thương hiệu đường phố cho đến cao cấp như Estee Lauder, Coach, Crabtree & Evelyn, Levi's, Converse và PUMA. Diamond Plaza còn có khu Foodcourt tiện nghi, khu vui chơi trẻ em rộng lớn và hệ thống rạp chiếu phim đẳng cấp.</p>
+<span class="line"></span>
+<h3 class="heading">Vincom Center Đồng Khởi</h3>
+<p>Từ Diamond Plaza, đi trên đường Đồng Khởi hướng ra Bến Bạch Đằng, sẽ đến <b>Vincom Center Đồng Khởi</b> (72 Lê Thánh Tôn, Quận 1). Khu trung tâm thương mại được thiết kế theo phong cách Tân Cổ điển sang trọng bố trí khoảng 250 cửa hiệu thời trang, nhà hàng, cà phê và khu vui chơi giải trí cao cấp trải rộng 5 tầng (B3 đến L2). Nơi đây vang danh là “thánh địa thời trang sang trọng” quy tụ nhiều nhà Mode thời trang nổi tiếng trong nước và quốc tế như Karen Millen, FCUK, Coast, Runway, Sisley, DKNY, Mango,… Ngoài ra, khu ẩm thực tại Vincom Center Đồng Khởi hội tụ đa dạng các món ăn từ Âu sang Á và những món truyền thống Việt Nam.</p>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOvsZ1-b1K1iZ9ksnabq0xaCla5JY_KqBxxmBugLBvFHQoUZW7PqhW_Md03M6YFj-giwvDcFHiyvCC2dnknnUyo4Nt7ZaQkmrgVVXG9nfGrCSQNbymsYeVtCBczXhKF0CU-7GAzmShdI0zE6wwbDfsV=w1316-h878-s-no-gm?authuser=0" alt="Hình tạm" class="img_md"><br>
+<span class="line"></span>
+<h3 class="heading">Sự kết hợp giữa chợ truyền thống và trung tâm thương mại</h3>
+<p>Còn lại, <b>SaigonSquare</b> (77-89, Nam Kỳ Khởi Nghĩa, Quận 1) và <b>Taka Plaza</b> (102 Nam Kỳ Khởi Nghĩa, Quận 1) là mô hình buôn bán kết hợp giữa sạp chợ truyền thống và không gian rộng rãi, có máy lạnh thoáng mát của trung tâm thương mại. Khu mua sắm quy tụ hàng trăm gian hàng buôn bán quần áo, giày dép, phụ kiện thời trang, giúp du khách dễ dàng trong việc tìm kiếm và mua sắm. Nơi đây có nhiều gian bán hàng Việt Nam xuất khẩu và nhập khẩu từ nước ngoài với giá cả phải chăng lại nhiều kích thước, mẫu mã đẹp. Ngoài ra, những sạp hàng ở SaigonSquare và Taka Plaza cũng thường xuyên có các chương trình khuyến mãi giảm giá do mẫu mã mới về liên tục. Bạn hãy yên tâm, tất cả mặt hàng ở đây đều được bán với giá niêm yết rõ ràng.</p>
+<img src="https://gcs.tripi.vn/public-tripi/tripi-feed/img/474323mdb/trung-tam-thuong-mai-saigon-center-451012.jpg" alt="Hình tạm" class="img_md"><br>
+<span class="line"></span>
+</div>

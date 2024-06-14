@@ -1,0 +1,48 @@
+h1{
+    font-size:36px;
+}
+.date{
+    font-size: 24px;
+}
+.container_content{
+    max-width: 1085px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3rem;
+    box-sizing: border-box;
+    padding-top:20px;
+}
+.line{
+    display: block;
+    height: 0.1rem;
+    border: 0;
+    border-top: 0.1rem solid #ccc;
+    padding: 0;
+    margin-top: 12px;
+}
+.heading{
+    font-size: 24px;
+    margin:12px 0;
+}
+p{
+    line-height: 1.8;
+    font-size: 18px;
+}
+.img_md{
+    width: 100% !important;
+    height: auto;
+    border-radius: 3rem;
+    margin:12px 0;
+}
+.mt-12{
+    margin:6px 0;
+}
+.pd-12{
+ padding:12px 0;
+}
+span{
+    font-size: 18px;
+}
+b{
+    font-size: 19px;
+}
